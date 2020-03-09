@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player2D : MonoBehaviour
 {
@@ -11,7 +12,16 @@ public class Player2D : MonoBehaviour
     public float jumpForce = 300f;
     public float direction = 0.0f;
     public bool grounded;
-    //public Vector2 mov;
+
+    //Codigo de combate puños y patadas
+    
+    public int health_points = 10;
+    public Player2D control_rival = null;
+
+    public Slider slider_health_points;
+
+    //UwU
+
     // Start is called before the first frame update
     void Start()
     {
@@ -35,7 +45,11 @@ public class Player2D : MonoBehaviour
         Golpear();
         PatearFuerte();
         PatearSuperFuerte();
+
+        slider_health_points.value = health_points;
+
     }
+
     private void FixedUpdate()
     {
         
@@ -71,6 +85,11 @@ public class Player2D : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.J))
         {
             anim.SetTrigger("Golpear");
+
+            if (control_rival != null)
+            {
+                control_rival.Recibir_Golpe(1);
+            }
         }
     }
     public void PatearFuerte()
@@ -78,6 +97,11 @@ public class Player2D : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.K))
         {
             anim.SetTrigger("PatearFuerte");
+
+            if (control_rival != null)
+            {
+                control_rival.Recibir_Golpe(2);
+            }
         }
     }
     public void PatearSuperFuerte()
@@ -85,6 +109,24 @@ public class Player2D : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.L))
         {
             anim.SetTrigger("PatearSuperFuerte");
+
+            if (control_rival != null)
+            {
+                control_rival.Recibir_Golpe(3);
+            }
         }
     }
+
+    //void de colliciones de golpes
+
+    public void SetControl_Rival(Player2D control)
+    {
+        control_rival = control;
+    }
+
+    public void Recibir_Golpe(int dmg)
+    {
+        health_points = health_points - dmg;
+    }
+
 }
