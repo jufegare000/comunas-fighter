@@ -1,0 +1,1075 @@
+fileFormatVersion: 2
+guid: 429e6f85a43b22b409a03a0f15fd8bc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8248430335278522377
+    second: Ken voltiao_0
+  - first:
+      213: 349647087254605079
+    second: Ken voltiao_1
+  - first:
+      213: 346416039136472009
+    second: Ken voltiao_2
+  - first:
+      213: 4989086691593220743
+    second: Ken voltiao_3
+  - first:
+      213: 4247468507044475483
+    second: Ken voltiao_4
+  - first:
+      213: 2154517338088306277
+    second: Ken voltiao_5
+  - first:
+      213: -2190524313684377467
+    second: Ken voltiao_6
+  - first:
+      213: 7780800609335830239
+    second: Ken voltiao_7
+  - first:
+      213: -5278073766142770469
+    second: Ken voltiao_8
+  - first:
+      213: 3489865393513543076
+    second: Ken voltiao_9
+  - first:
+      213: -9028590876739365136
+    second: Ken voltiao_10
+  - first:
+      213: -6545167491016889655
+    second: Ken voltiao_11
+  - first:
+      213: 7331298046492839207
+    second: Ken voltiao_12
+  - first:
+      213: -606822301483773175
+    second: Ken voltiao_13
+  - first:
+      213: 4187964931996872923
+    second: Ken voltiao_14
+  - first:
+      213: -5651064688181474314
+    second: Ken voltiao_15
+  - first:
+      213: -2110042645861163669
+    second: Ken voltiao_16
+  - first:
+      213: -4036661191415606603
+    second: Ken voltiao_17
+  - first:
+      213: -4149191411008782546
+    second: Ken voltiao_18
+  - first:
+      213: -883829276355621018
+    second: Ken voltiao_19
+  - first:
+      213: -2180452120959386954
+    second: Ken voltiao_20
+  - first:
+      213: -2115841351705172207
+    second: Ken voltiao_21
+  - first:
+      213: 2973142099137302259
+    second: Ken voltiao_22
+  - first:
+      213: -2861437239127580088
+    second: Ken voltiao_23
+  - first:
+      213: -1608105859227475151
+    second: Ken voltiao_24
+  - first:
+      213: 3714293903773197191
+    second: Ken voltiao_25
+  - first:
+      213: -1976500887566442260
+    second: Ken voltiao_26
+  - first:
+      213: 1063137525866728393
+    second: Ken voltiao_27
+  - first:
+      213: -7406139622423317736
+    second: Ken voltiao_28
+  - first:
+      213: 4890509432499156098
+    second: Ken voltiao_29
+  - first:
+      213: 4989389495993531247
+    second: Ken voltiao_30
+  - first:
+      213: 446114380044901562
+    second: Ken voltiao_31
+  - first:
+      213: 809045873310434339
+    second: Ken voltiao_32
+  - first:
+      213: -8014979232965749678
+    second: Ken voltiao_33
+  - first:
+      213: -1779619639462531187
+    second: Ken voltiao_34
+  - first:
+      213: -8172011338268489552
+    second: Ken voltiao_35
+  - first:
+      213: -754789148695629647
+    second: Ken voltiao_36
+  - first:
+      213: 7198025888145746869
+    second: Ken voltiao_37
+  - first:
+      213: 1056702813901250697
+    second: Ken voltiao_38
+  - first:
+      213: -10033342755357607
+    second: Ken voltiao_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ken voltiao_0
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 724
+        width: 62
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffda27ef40b78d80800000000000000
+      internalID: -8248430335278522377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 724
+        width: 62
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d8f806c223ad400800000000000000
+      internalID: 349647087254605079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 724
+        width: 51
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb2a3d5d87bec400800000000000000
+      internalID: 346416039136472009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 724
+        width: 50
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782fa06a9ebcc3540800000000000000
+      internalID: 4989086691593220743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 640
+        width: 36
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b527b056a1a02fa30800000000000000
+      internalID: 4247468507044475483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 640
+        width: 35
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5667c279a1266ed10800000000000000
+      internalID: 2154517338088306277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 640
+        width: 35
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5808cfa1eb1b991e0800000000000000
+      internalID: -2190524313684377467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 640
+        width: 35
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6ea930ee4fafb60800000000000000
+      internalID: 7780800609335830239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 560
+        width: 37
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd280c6cfd380c6b0800000000000000
+      internalID: -5278073766142770469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 560
+        width: 53
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5bd46d51e7e6030800000000000000
+      internalID: 3489865393513543076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 560
+        width: 37
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f61e91ee6004b280800000000000000
+      internalID: -9028590876739365136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 480
+        width: 30
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cae08e38d4ea25a0800000000000000
+      internalID: -6545167491016889655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 480
+        width: 31
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d88bbfab00eb560800000000000000
+      internalID: 7331298046492839207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 480
+        width: 32
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9035646f4522497f0800000000000000
+      internalID: -606822301483773175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 480
+        width: 37
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd07777bae3ae1a30800000000000000
+      internalID: 4187964931996872923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 480
+        width: 37
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb80325b926391b0800000000000000
+      internalID: -5651064688181474314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_16
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 435
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d1580a46f97b2e0800000000000000
+      internalID: -2110042645861163669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_17
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 437
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b251179806eaf7c0800000000000000
+      internalID: -4036661191415606603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 354
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f38b1256c1b66c0800000000000000
+      internalID: -4149191411008782546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_19
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 355
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f8bb4b4f10cb3f0800000000000000
+      internalID: -883829276355621018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 357
+        width: 8
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baf778395a7db1e0800000000000000
+      internalID: -2180452120959386954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 360
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117e786308503a2e0800000000000000
+      internalID: -2115841351705172207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 240
+        width: 37
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe86dd9cf8b24920800000000000000
+      internalID: 2973142099137302259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 240
+        width: 39
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842e9b6ddf12a48d0800000000000000
+      internalID: -2861437239127580088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 246
+        width: 67
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133a58bbd3cdea9e0800000000000000
+      internalID: -1608105859227475151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 243
+        width: 39
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ecc550a2db8330800000000000000
+      internalID: 3714293903773197191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_26
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 240
+        width: 37
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0ab5a2aee0294e0800000000000000
+      internalID: -1976500887566442260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 163
+        width: 38
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb8ca072f501ce00800000000000000
+      internalID: 1063137525866728393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 163
+        width: 59
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8133388b04b183990800000000000000
+      internalID: -7406139622423317736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_29
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 162
+        width: 69
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2843fc6fa649ed340800000000000000
+      internalID: 4890509432499156098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_30
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 162
+        width: 56
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b72cacf4fdd3540800000000000000
+      internalID: 4989389495993531247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_31
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 160
+        width: 35
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc15cf3aaae03600800000000000000
+      internalID: 446114380044901562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 83
+        width: 30
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3240aad6fee4a3b00800000000000000
+      internalID: 809045873310434339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_33
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 80
+        width: 33
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25491f05ad215c090800000000000000
+      internalID: -8014979232965749678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 81
+        width: 29
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fe682ed558d47e0800000000000000
+      internalID: -1779619639462531187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_35
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 93
+        width: 31
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8ca0a2cfe279e80800000000000000
+      internalID: -8172011338268489552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_36
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 82
+        width: 29
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b07dafa4437685f0800000000000000
+      internalID: -754789148695629647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_37
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 80
+        width: 33
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb2ef2986684e360800000000000000
+      internalID: 7198025888145746869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_38
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 83
+        width: 30
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9806dbf4c992aae00800000000000000
+      internalID: 1056702813901250697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken voltiao_39
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c38295aba5cdff0800000000000000
+      internalID: -10033342755357607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
